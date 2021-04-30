@@ -16,6 +16,7 @@ namespace RefactoringDemo
             var addResult = userService.AddUser("testName", "testLastName", "some@email.com",
                 DateTime.Now.AddYears(-25), 1);
             Console.WriteLine($"Adding result: {addResult}");
+            Console.ReadLine();
         }
     }
 }

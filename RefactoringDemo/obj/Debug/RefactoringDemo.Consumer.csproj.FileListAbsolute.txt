@@ -6,3 +6,13 @@ c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\Refactoring
 c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.Consumer.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.exe
 c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.pdb
+D:\refactoring\refactoring\RefactoringDemo\obj\Debug\RefactoringDemo.Consumer.csprojAssemblyReference.cache
+D:\refactoring\refactoring\RefactoringDemo\obj\Debug\RefactoringDemo.Consumer.csproj.CoreCompileInputs.cache
+D:\refactoring\refactoring\RefactoringDemo\obj\Debug\RefactoringDemo.exe
+D:\refactoring\refactoring\RefactoringDemo\obj\Debug\RefactoringDemo.pdb
+D:\refactoring\refactoring\RefactoringDemo\bin\Debug\RefactoringDemo.exe.config
+D:\refactoring\refactoring\RefactoringDemo\bin\Debug\RefactoringDemo.exe
+D:\refactoring\refactoring\RefactoringDemo\bin\Debug\RefactoringDemo.pdb
+D:\refactoring\refactoring\RefactoringDemo\bin\Debug\Refactoring.Lib.dll
+D:\refactoring\refactoring\RefactoringDemo\bin\Debug\Refactoring.Lib.pdb
+D:\refactoring\refactoring\RefactoringDemo\obj\Debug\RefactoringDemo.Consumer.csproj.CopyComplete
