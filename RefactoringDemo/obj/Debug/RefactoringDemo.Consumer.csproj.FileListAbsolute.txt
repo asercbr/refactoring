@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.exe
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\RefactoringDemo.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\Refactoring.Lib.dll
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\bin\Debug\Refactoring.Lib.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.Consumer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.exe
+c:\users\admin\documents\visual studio 2015\Projects\RefactoringDemo\RefactoringDemo\obj\Debug\RefactoringDemo.pdb
